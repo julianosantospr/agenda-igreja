@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "data": "2026-10-20",
+    "horario": "20:00",
+    "titulo": "Culto de Louvor e Adoração",
+    "ministrante": "Diácono Marcos",
+    "categoria": "louvor",
+    "imagem": "imagens/evento-1.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  },
+  {
+    "id": 2,
+    "data": "2026-10-22",
+    "horario": "20:00",
+    "titulo": "Culto Outubro Rosa",
+    "ministrante": "Irmã Cristina Sargi",
+    "categoria": "especial",
+    "imagem": "imagens/evento-2.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  },
+  {
+    "id": 3,
+    "data": "2026-10-27",
+    "horario": "20:00",
+    "titulo": "Culto de Louvor e Adoração",
+    "ministrante": "Pastora Sandra",
+    "categoria": "louvor",
+    "imagem": "imagens/evento-3.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  },
+  {
+    "id": 4,
+    "data": "2026-10-29",
+    "horario": "20:00",
+    "titulo": "Círculo de Oração",
+    "ministrante": "Diaconisa Vivien",
+    "categoria": "oração",
+    "imagem": "imagens/evento-4.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  },
+  {
+    "id": 5,
+    "data": "2026-11-14",
+    "horario": "19:00",
+    "titulo": "Congresso de Missões",
+    "ministrante": "Evangelista Moisés e cantor Lucas Matheus",
+    "categoria": "congresso",
+    "imagem": "imagens/evento-5.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  },
+  {
+    "id": 6,
+    "data": "2026-11-15",
+    "horario": "19:00",
+    "titulo": "Culto de Ação de Graças",
+    "ministrante": "Missionária Alessandra",
+    "categoria": "especial",
+    "imagem": "imagens/evento-6.jpg",
+    "descricao": "Traga sua família, convide seus amigos e venha adorar conosco!"
+  }
+]
